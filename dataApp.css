@@ -1,0 +1,30 @@
+h1{
+  color: red;
+  font-size: 75px;
+  text-align: center;
+  text-decoration-line: overline underline;
+  text-decoration-style: wavy;
+  text-decoration-color: white; 
+  text-shadow: 2px 2px;
+  text-shadow-color: white
+}
+
+h2{
+  color: white;
+  font-size: 25px;
+  text-align: left;
+}
+
+
+img{
+  width: 50%;
+}
+
+body{
+  background-color: black;
+}
+
+src {
+  border-radius: 8px;
+  border: dashed white 4px;
+}
